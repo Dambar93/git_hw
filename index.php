@@ -17,4 +17,5 @@
 
     echo "finished feature";
 
+    echo "second new feature";
     
