@@ -5,3 +5,5 @@
     echo "little main change";
 
     echo "more changes";
+
+    echo "first hotfix";
