@@ -4,6 +4,13 @@
 
     echo "little main change";
 
+    echo "more changes";
+
+    echo "first hotfix";
+
+    echo "second hotfix";
+
+
     echo "feature first part";
 
     echo "second part";
