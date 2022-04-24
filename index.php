@@ -7,3 +7,5 @@
     echo "more changes";
 
     echo "first hotfix";
+
+    echo "second hotfix";
