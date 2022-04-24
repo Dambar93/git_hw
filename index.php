@@ -5,5 +5,7 @@
     echo "little main change";
 
     echo "feature first part";
-    
+
+    echo "second part";
+
     
