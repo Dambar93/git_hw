@@ -8,4 +8,6 @@
 
     echo "second part";
 
+    echo "finished feature";
+
     
